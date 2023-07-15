@@ -1,0 +1,26 @@
+
+#first {
+    border: 10px solid brown;
+    background-image: url(palmtree.jpg);
+    padding: 50px;
+    
+    
+}
+
+
+#second { 
+    background-color: pink;
+    background-repeat: no-repeat;
+}
+
+.testing {
+    color: aqua;
+    font-style: italic
+}
+
+img {
+    width: 500px;
+    border: 5px solid purple;
+    
+    
+  }
